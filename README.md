@@ -36,7 +36,7 @@ This project is developed using **STM32CubeIDE** and programmed using **STM32Cub
 
 ---
 
-## ⚙️ Pin Configuration
+##  Pin Configuration
 
 | Component | Pin  | Mode              |
 | --------- | ---- | ----------------- |
